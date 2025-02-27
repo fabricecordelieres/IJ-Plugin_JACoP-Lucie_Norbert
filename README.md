@@ -1,1 +1,1 @@
-# IJ-Plugin_JACoP-Lucie_Norbert
+# IJ-Plugin_Lucie_Norbert
